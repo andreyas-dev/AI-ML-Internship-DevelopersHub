@@ -16,7 +16,7 @@ The aim is to explore **time series regression**, build machine learning models,
 
 ## 📂 Folder Contents
 - 📒 **stock_price_prediction.ipynb** → Jupyter Notebook with full implementation  
-- 🖼 **results/** *(optional)* → Saved plots of stock price predictions for easy reference  
+- 🖼 **results/**  → Saved plots of stock price predictions for easy reference  
 
 ---
 
