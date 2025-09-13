@@ -57,4 +57,7 @@ Connect with me professionally or reach out via email:
 - **LinkedIn:** [Andreyas](www.linkedin.com/in/eng-andreyas)  
 - **Email:** eng.andreyas@gmail.com
 
+## ✅ Status
+**Task Completed Successfully** – all models trained, predictions evaluated, and results visualized.
+
 
