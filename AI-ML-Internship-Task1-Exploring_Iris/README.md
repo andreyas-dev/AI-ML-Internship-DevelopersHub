@@ -34,11 +34,9 @@ The aim is to deeply understand the dataset through **statistical summaries**, *
 
 | Visualization | Example |
 |--------------|---------|
-| 🌱 **Scatter Plot** | ![Sample Scatter](https://via.placeholder.com/300x150.png?text=Scatter+Plot) |
-| 📈 **Histogram** | ![Sample Histogram](https://via.placeholder.com/300x150.png?text=Histogram) |
-| 📦 **Box Plot** | ![Sample Boxplot](https://via.placeholder.com/300x150.png?text=Box+Plot) |
-
-> 💡 *Replace the placeholder images with your **actual plots** for a polished and portfolio-ready look.*
+| 🌱 **Scatter Plot** | ![Sample Scatter](results/scatter_sepal.png) |
+| 📈 **Histogram**  | ![Sample Histogram](results/scatter_petal.png) |
+| 📦 **Box Plot**   | ![Sample Boxplot](results/boxplot_features.png) |
 
 ---
 
