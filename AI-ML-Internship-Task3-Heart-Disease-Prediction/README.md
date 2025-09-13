@@ -15,7 +15,8 @@ The task involves **data cleaning**, **exploratory data analysis (EDA)**, **mode
 ---
 
 ## 📂 Folder Contents
-- 📒 **heart_disease_prediction.ipynb** → Jupyter Notebook with full implementation 
+- 📒 **heart_disease_prediction.ipynb** → Jupyter Notebook with full implementation
+- 📒 **README.md**
 
 ---
 
