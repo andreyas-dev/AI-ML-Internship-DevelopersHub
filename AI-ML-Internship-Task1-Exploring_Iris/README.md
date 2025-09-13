@@ -48,3 +48,13 @@ The aim is to deeply understand the dataset through **statistical summaries**, *
 
 ✅ **Outcome:** This task demonstrates key **EDA techniques** and builds a strong foundation for data-driven decision-making before model training.
 
+---
+
+## 📫 Contact
+
+Connect with me professionally or reach out via email:
+
+- **LinkedIn:** [Andreyas](www.linkedin.com/in/eng-andreyas)  
+- **Email:** eng.andreyas@gmail.com
+
+
