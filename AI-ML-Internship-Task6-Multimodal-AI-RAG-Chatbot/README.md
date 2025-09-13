@@ -1,4 +1,4 @@
-# 🚀 Advanced Multimodal AI System & Intelligent Chatbot Platform
+# 🚀 Task 6 - Advanced Multimodal AI System & Intelligent Chatbot Platform
 
 This project is part of my AI/ML internship and focuses on building a **cutting-edge multimodal AI system** with **RAG-powered conversational intelligence**.  
 It combines image, tabular, and text data to deliver predictive analytics alongside a real-time intelligent chatbot interface.
@@ -307,6 +307,16 @@ This project demonstrates mastery of:
 **🚀 Technology**: Cutting-edge multimodal AI with RAG-powered intelligence  
 **🎯 Deployment**: Production-ready web application with advanced features  
 **📈 Impact**: Demonstrates state-of-the-art AI system development capabilities
+
+
+## 📫 Contact
+- **LinkedIn:** [Andreyas](www.linkedin.com/in/eng-andreyas)  
+- **Email:** eng.andreyas@gmail.com    
+
+---
+
+## ✅ Status
+**Task Completed Successfully**
 
 
 
