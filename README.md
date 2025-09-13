@@ -24,12 +24,12 @@ Each task highlights practical applications of machine learning, deep learning, 
 ```
 
 AI-ML-Internship-DevelopersHub/
-├── AI-ML-Internship-Task1-Exploring\_Iris/
-├── AI-ML-Internship-Task2-Stock-Price-Prediction/
-├── AI-ML-Internship-Task3-Heart-Disease-Prediction/
-├── AI-ML-Internship-Task4-News-Classification-BERT/
-├── AI-ML-Internship-Task5-Customer-Churn-Prediction/
-├── AI-ML-Internship-Task6-Multimodal-AI-RAG-Chatbot/
+├── AI-ML-Internship-Task1-Exploring\_Iris
+├── AI-ML-Internship-Task2-Stock-Price-Prediction
+├── AI-ML-Internship-Task3-Heart-Disease-Prediction
+├── AI-ML-Internship-Task4-News-Classification-BERT
+├── AI-ML-Internship-Task5-Customer-Churn-Prediction
+├── AI-ML-Internship-Task6-Multimodal-AI-RAG-Chatbot
 ├── requirements.txt
 └── README.md
 
