@@ -16,7 +16,7 @@ The aim is to deeply understand the dataset through **statistical summaries**, *
 
 ## 📂 Folder Contents
 - 📒 **task1_iris_eda.ipynb** → Main Jupyter Notebook containing implementation  
-- 🖼 **results/** *(optional)* → Saved plots (scatter, histograms, boxplots) for easy reference  
+- 🖼 **results/**             → Saved plots (scatter, histograms, boxplots) for easy reference  
 
 ---
 
