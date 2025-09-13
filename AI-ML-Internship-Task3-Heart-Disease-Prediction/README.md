@@ -1,6 +1,6 @@
 # ❤️ Task 3 – Heart Disease Prediction
 
-This project is part of my **AI/ML Internship Task 3**, focused on predicting whether a person is at risk of heart disease based on medical and lifestyle data 🫀.  
+This project is part of my **AI/ML Internship Task 3**, focused on predicting whether a person is at risk of heart disease based on medical and lifestyle data.  
 The task involves **data cleaning**, **exploratory data analysis (EDA)**, **model training**, and **evaluation**.
 
 ---
@@ -15,8 +15,7 @@ The task involves **data cleaning**, **exploratory data analysis (EDA)**, **mode
 ---
 
 ## 📂 Folder Contents
-- 📒 **heart_disease_prediction.ipynb** → Jupyter Notebook with full implementation  
-- 🖼 **results/**  → Saved plots including confusion matrices, ROC curves, and feature importance charts  
+- 📒 **heart_disease_prediction.ipynb** → Jupyter Notebook with full implementation 
 
 ---
 
