@@ -50,14 +50,18 @@ The goal is to classify news articles into **four categories** from the **AG New
 ---
 
 ## 💾 Model Output
-After training, the model and tokenizer are saved in:
+After training, the model and tokenizer are saved in the `news_classifier/` folder:
 
-./news_classifier/
-├── config.json
-├── pytorch_model.bin
-├── tokenizer.json
-├── tokenizer_config.json
-└── vocab.txt
+| File Name               | Description                                  |
+|-------------------------|----------------------------------------------|
+| config.json             | Configuration file for the model             |
+| pytorch_model.bin       | Trained BERT model weights                   |
+| tokenizer.json          | Tokenizer configuration for text processing |
+| tokenizer_config.json   | Additional tokenizer settings                |
+| vocab.txt               | Vocabulary file used by the tokenizer       |
+
+These files can be easily reloaded for inference.
+
 
 These files can be easily reloaded for inference.
 
