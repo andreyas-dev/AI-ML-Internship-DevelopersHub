@@ -227,3 +227,16 @@ Technical Applications
 **📊 Performance**: High-accuracy churn prediction with production deployment  
 **🚀 Deployment**: Ready for enterprise-scale implementation  
 **📈 Business Value**: Significant ROI through improved customer retention
+
+---
+
+## 📫 Contact
+- **LinkedIn:** [Andreyas](www.linkedin.com/in/eng-andreyas)  
+- **Email:** eng.andreyas@gmail.com    
+
+---
+
+## ✅ Status
+**Task Completed Successfully**
+
+
