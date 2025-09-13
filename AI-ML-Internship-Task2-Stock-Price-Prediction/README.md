@@ -33,8 +33,8 @@ The aim is to explore **time series regression**, build machine learning models,
 
 | Visualization | Example |
 |--------------|---------|
-| 🍎 **AAPL Prediction** | ![AAPL Prediction](results/aapl_prediction.png) |
-| 🚗 **TSLA Prediction** | ![TSLA Prediction](results/tsla_prediction.png) |
+| 🍎 **AAPL Prediction** | ![AAPL Prediction](results/aapl_rf_prediction.png) |
+| 🚗 **TSLA Prediction** | ![TSLA Prediction](results/tsla_lr_prediction.png) |
 
 ---
 
