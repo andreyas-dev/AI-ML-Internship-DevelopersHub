@@ -61,7 +61,7 @@ Quick Start
 1. **Run the Main Notebook**:
 
    ```bash
-   jupyter notebook Task2_P2.ipynb
+   jupyter notebook Customer_Churn_Prediction.ipynb
    ```
 
 2. **Execute All Cells** to:
