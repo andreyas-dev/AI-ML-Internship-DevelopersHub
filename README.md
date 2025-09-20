@@ -1,14 +1,14 @@
 # 🧠 AI/ML Internship Projects – DevelopersHub Corporation
 
 Welcome to my **AI/ML Internship Portfolio**!  
-This repository showcases all **6 end-to-end projects** I completed during my internship at **[DevelopersHub Corporation](https://developershubcorp.com/)**.  
+This repository showcases all **6 end-to-end projects** I completed during my internship at **[DevelopersHub Corporation ©](https://developershubcorp.com/)**.  
 Each task highlights practical applications of machine learning, deep learning, NLP, and multimodal AI turning theory into real-world solutions.
 
 ---
 
 ## 🔎 Internship Highlights
 
-- **Organization:** DevelopersHub Corporation ©  
+- **Organization:** **[DevelopersHub Corporation ©](https://developershubcorp.com/)** 
 - **Duration:** *August 2025 – September 2025 (6 Weeks)* 
 - **Domain:** Artificial Intelligence & Machine Learning  
 - **Key Focus Areas:**  
@@ -106,7 +106,7 @@ Each folder contains:
 
 If you find this repository helpful or would like to discuss these projects, feel free to connect:
 
-* 🌐 **Organization Website:** [developershubcorp.com](https://developershubcorp.com/)  
+* 🌐 **Organization Website:** [DevelopersHub Corporation © ](https://developershubcorp.com/)  
 * 💼 **LinkedIn:** [Andreyas](www.linkedin.com/in/eng-andreyas)    
 * 📧 **Email:** eng.andreyas@gmail.com  
 
