@@ -97,10 +97,8 @@ Each folder contains:
 
 | Project    | Sample Output |
 |-----------|---------------|
-| **Task 1** | ![Iris Dataset Visualization](https://via.placeholder.com/300x150.png?text=Iris+EDA) |
-| **Task 4** | ![BERT Training Loss](https://via.placeholder.com/300x150.png?text=BERT+Training+Graph) |
-| **Task 6** | ![Chatbot Example](https://via.placeholder.com/300x150.png?text=Chatbot+Conversation) |
-
+| **Task 1** | ![Iris Dataset Visualization](https://github.com/andreyas-dev/AI-ML-Internship-DevelopersHub/blob/main/AI-ML-Internship-Task1-Exploring_Iris/results/boxplot_features.png) |
+| **Task 2** | ![Stock Price Prediction](https://github.com/andreyas-dev/AI-ML-Internship-DevelopersHub/blob/main/AI-ML-Internship-Task2-Stock-Price-Prediction/results/tsla_lr_prediction.png) |
 
 ---
 
@@ -109,7 +107,7 @@ Each folder contains:
 If you find this repository helpful or would like to discuss these projects, feel free to connect:
 
 * 🌐 **Organization Website:** [developershubcorp.com](https://developershubcorp.com/)  
-* 💼 **LinkedIn:** www.linkedin.com/in/eng-andreyas  
+* 💼 **LinkedIn:** [Andreyas](www.linkedin.com/in/eng-andreyas)    
 * 📧 **Email:** eng.andreyas@gmail.com  
 
 ---
