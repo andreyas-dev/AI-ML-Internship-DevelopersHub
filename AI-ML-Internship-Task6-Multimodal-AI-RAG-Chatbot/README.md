@@ -77,7 +77,7 @@ pip install pathlib datetime warnings
 1. **Run the Complete System**:
 
    ```bash
-   jupyter notebook Task3_P2.ipynb
+   jupyter notebook AI_RAG_Chatbot.ipynb
    ```
 
 2. **Execute All Cells** to:
