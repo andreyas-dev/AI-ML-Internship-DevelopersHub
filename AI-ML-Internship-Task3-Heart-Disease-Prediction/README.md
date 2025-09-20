@@ -70,7 +70,7 @@ The task involves **data cleaning**, **exploratory data analysis (EDA)**, **mode
 ---
 
 ## 📫 Contact
-- **LinkedIn:** [Your Name](www.linkedin.com/in/eng-andreyas)  
+- **LinkedIn:** [Andreyas](www.linkedin.com/in/eng-andreyas)  
 - **Email:** eng.andreyas@gmail.com  
 
 ---
